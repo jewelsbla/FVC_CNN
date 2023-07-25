@@ -9,9 +9,8 @@ Convolutional neural network (CNN) that determines the fiber volume content (FVC
 ## Content
 
 <p align="center">
-  <img src=["https://github.com/jewelsbla/FVC_CNN/blob/main/images/network_architecture.png?raw=true"](https://github.com/jewelsbla/FVC_CNN/blob/main/images/Network_architecture.PNG)>
+  <img src="https://github.com/jewelsbla/FVC_CNN/blob/main/images/Network_architecture.PNG">
 </p>
-
 
 ## Version
 
