@@ -82,7 +82,7 @@ def makeEmptyScanArray(length, newImageDepth, newImageResolution):
     return newArray
 
 #Equates an integer representing the average deviation between two sets
-def deviation(input, output):)
+def deviation(input, output):
     difference = input - output
     relativeDeviation = difference / input
     global SAD
