@@ -9,9 +9,7 @@ The paper describing the scientific background and the methods underlying this r
 
 XXX
 
-This code was published alongside the raw data of the CT scans and the evaluated tensor data first as research data set here: XXX
-
-If you use the code in this repository, please cite both DOIs.
+If you use the code in this repository, please cite the DOI.
 
 ## Content
 
