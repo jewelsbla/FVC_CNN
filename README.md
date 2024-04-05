@@ -7,17 +7,17 @@ Convolutional neural network (CNN) determining the fiber volume content (FVC) of
 ## Disclaimer 
 The paper describing the scientific background and the methods underlying this repository is: 
 
-Juliane Blarr, Philipp Kunze, Noah Kresin, Wilfried V. Liebig, Kaan Inal, Kay A. Weidenmann,
-Novel thresholding method and convolutional neural network for fiber volume content determination from 3D μCT images,
-NDT & E International,
-Volume 144,
-2024,
-103067,
-ISSN 0963-8695,
-https://doi.org/10.1016/j.ndteint.2024.103067,
-https://www.sciencedirect.com/science/article/pii/S096386952400032X.
-Abstract: In order to determine fiber volume contents (FVC) of low contrast CT images of carbon fiber reinforced polyamide 6, a novel thresholding method and a convolutional neural network are implemented with absolute deviations from experimental values of 2.7% and, respectively, 1.46% on average. The first method is a sample thickness based adjustment of the Otsu threshold, the so-called “average or above (AOA) thresholding”, and the second is a mixed convolutional neural network (CNN) that directly takes 3D scans and the experimentally determined FVC values as input. However, the methods are limited to the specific material combination, process-dependent microstructure and scan quality but could be further developed for different material types.
-Keywords: X-ray tomography; Carbon fiber reinforced polymers; Thermoplastics; Low contrast; Deep learning
+Juliane Blarr, Philipp Kunze, Noah Kresin, Wilfried V. Liebig, Kaan Inal, Kay A. Weidenmann,   
+Novel thresholding method and convolutional neural network for fiber volume content determination from 3D μCT images,   
+NDT & E International,   
+Volume 144,   
+2024,   
+103067,   
+ISSN 0963-8695,   
+https://doi.org/10.1016/j.ndteint.2024.103067,   
+https://www.sciencedirect.com/science/article/pii/S096386952400032X.   
+Abstract: In order to determine fiber volume contents (FVC) of low contrast CT images of carbon fiber reinforced polyamide 6, a novel thresholding method and a convolutional neural network are implemented with absolute deviations from experimental values of 2.7% and, respectively, 1.46% on average. The first method is a sample thickness based adjustment of the Otsu threshold, the so-called “average or above (AOA) thresholding”, and the second is a mixed convolutional neural network (CNN) that directly takes 3D scans and the experimentally determined FVC values as input. However, the methods are limited to the specific material combination, process-dependent microstructure and scan quality but could be further developed for different material types.   
+Keywords: X-ray tomography; Carbon fiber reinforced polymers; Thermoplastics; Low contrast; Deep learning   
 
 
 If you use the code in this repository, please cite the paper accordingly.
