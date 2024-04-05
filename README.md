@@ -5,7 +5,9 @@ Convolutional neural network (CNN) determining the fiber volume content (FVC) of
 ***
 
 ## Disclaimer 
-The paper describing the scientific background and the methods underlying this repository is: 
+The BibTeX citation of the paper describing the scientific background and the methods underlying this repository is: 
+
+<span style="color:gray">
 
 @article{BLARR2024103067,   
 title = {Novel thresholding method and convolutional neural network for fiber volume content determination from 3D μCT images},   
@@ -21,6 +23,7 @@ keywords = {X-ray tomography, Carbon fiber reinforced polymers, Thermoplastics, 
 abstract = {In order to determine fiber volume contents (FVC) of low contrast CT images of carbon fiber reinforced polyamide 6, a novel thresholding method and a convolutional neural network are implemented with absolute deviations from experimental values of 2.7% and, respectively, 1.46% on average. The first method is a sample thickness based adjustment of the Otsu threshold, the so-called “average or above (AOA) thresholding”, and the second is a mixed convolutional neural network (CNN) that directly takes 3D scans and the experimentally determined FVC values as input. However, the methods are limited to the specific material combination, process-dependent microstructure and scan quality but could be further developed for different material types.}   
 }
 
+</span>
 
 If you use the code in this repository, please cite the paper accordingly.
 
