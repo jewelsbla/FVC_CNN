@@ -9,19 +9,19 @@ The BibTeX citation of the paper describing the scientific background and the me
 
 <span style="color:gray">
 
-@article{BLARR2024103067,   
-title = {Novel thresholding method and convolutional neural network for fiber volume content determination from 3D μCT images},   
-journal = {NDT & E International},   
-volume = {144},   
-pages = {103067},   
-year = {2024},   
-issn = {0963-8695},   
-doi = {https://doi.org/10.1016/j.ndteint.2024.103067},   
-url = {https://www.sciencedirect.com/science/article/pii/S096386952400032X},   
-author = {Juliane Blarr and Philipp Kunze and Noah Kresin and Wilfried V. Liebig and Kaan Inal and Kay A. Weidenmann},   
-keywords = {X-ray tomography, Carbon fiber reinforced polymers, Thermoplastics, Low contrast, Deep learning},   
-abstract = {In order to determine fiber volume contents (FVC) of low contrast CT images of carbon fiber reinforced polyamide 6, a novel thresholding method and a convolutional neural network are implemented with absolute deviations from experimental values of 2.7% and, respectively, 1.46% on average. The first method is a sample thickness based adjustment of the Otsu threshold, the so-called “average or above (AOA) thresholding”, and the second is a mixed convolutional neural network (CNN) that directly takes 3D scans and the experimentally determined FVC values as input. However, the methods are limited to the specific material combination, process-dependent microstructure and scan quality but could be further developed for different material types.}   
-}
+    @article{BLARR2024103067,   
+    title = {Novel thresholding method and convolutional neural network for fiber volume content determination from 3D μCT images},   
+    journal = {NDT & E International},   
+    volume = {144},   
+    pages = {103067},   
+    year = {2024},   
+    issn = {0963-8695},   
+    doi = {https://doi.org/10.1016/j.ndteint.2024.103067},   
+    url = {https://www.sciencedirect.com/science/article/pii/S096386952400032X},   
+    author = {Juliane Blarr and Philipp Kunze and Noah Kresin and Wilfried V. Liebig and Kaan Inal and Kay A. Weidenmann},   
+    keywords = {X-ray tomography, Carbon fiber reinforced polymers, Thermoplastics, Low contrast, Deep learning},   
+    abstract = {In order to determine fiber volume contents (FVC) of low contrast CT images of carbon fiber reinforced polyamide 6, a novel thresholding method and a convolutional neural network are implemented with absolute deviations from experimental values of 2.7% and, respectively, 1.46% on average. The first method is a sample thickness     based adjustment of the Otsu threshold, the so-called “average or above (AOA) thresholding”, and the second is a mixed convolutional neural network (CNN) that directly takes 3D scans and the experimentally determined FVC values as input. However, the methods are limited to the specific material combination, process-dependent microstructure     and scan quality but could be further developed for different material types.}   
+    }
 
 </span>
 
